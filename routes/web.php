@@ -14,5 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.contact');
+});
+
+Route::get('/agenda', function () {
+    return view('pages.agenda');
 });
