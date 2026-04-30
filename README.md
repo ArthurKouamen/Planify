@@ -58,10 +58,14 @@ L'objectif est de permettre à l'utilisateur de :
 /app
 /resources
     /views
-        /contacts
-        /agenda
-        /auth
+        /layouts
+        /pages
+        /partials
 /public
+    /css
+    /fonts
+    /images
+    /js
 /routes
 /database
 ```
