@@ -5,8 +5,7 @@ Cette application combine un carnet d’adresses et un agenda interactif afin d�
 📌 Description du projet
 Ce projet est une application web qui combine un carnet d’adresses et un agenda personnel dans une seule plateforme intuitive.
 
-L’objectif est de permettre à l’utilisateur de :
- gérer ses contacts (amis, famille, collègues, etc.)
+L’objectif est de permettre à l’utilisateur de :gérer ses contacts (amis, famille, collègues, etc.)
  organiser ses événements (rendez-vous, réunions, rappels)
  centraliser toutes ses informations personnelles au même endroit
 
